@@ -4,10 +4,10 @@
 2. 2019-09-01 前要決定接下來要做的專案  
 3. 2020-08-16 計畫結束
 
-## 計畫大綱
+## 進度條
 電商前台 > 商品資料庫 > 電商後台 > 會員登入 > 金流 > 前台 > 細節調整
 
-1.電商前台
+1.[電商前台](https://max-ec-project.appspot.com)
 - [x] 完成week1 - 會員註冊頁
 - [x] 完成week1 - 首頁
 - [x] 完成week1 - 商品頁
@@ -16,9 +16,14 @@
 
 2.商品資料庫 (資料庫從 Firebase 改成 MySQL)
 - [x] 完成week2 - 主頁和商品頁的資料庫修改 
-- [x] 完成week3 - 研究 ORM 資料庫設計
+- [x] 完成week3 - 研究 ORM 和關聯式資料庫設計
 - [x] 完成week4 - 會員加入購物車 & 購買頁面的資料庫修改
 - [x] 完成week4 - 會員註冊將 Firebase 改成 MySQL
+
+#### E-R Model 購物車
+![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/addToCart.png)
+#### E-R Model 結帳
+![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/transaction.png)
 
 3.電商後台
 - [x] 完成week5 - 商品新增頁面
