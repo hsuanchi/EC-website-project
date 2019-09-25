@@ -1,6 +1,6 @@
 ---
 name: "[WeekX] Max"
-about: Describe this issue template's purpose here.
+about: Max
 title: ''
 labels: ''
 assignees: ''
