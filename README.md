@@ -1,16 +1,19 @@
 # EC-website-project
-這個 Repo 主要是存放有關於參加 Huli 的[前端引路人計劃](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)的資料
-1. 2019-08-16 計劃正式開始
-2. 2019-09-01 前要決定接下來要做的專案  
-3. 2020-08-16 計畫結束
 
-## 專案資訊
-使用 docker-compose (flask + Nginx) 架設於 Google Compute Engine 使用 F1 主機*2，前端使用技術 Bootstrap4 + jQuery，數據追蹤使用 Google Anayltics 加強型電子商務
-
+## 一.介紹
+### 1. 計畫說明：
+過去工作上花費不少時間在研究電商的使用者行為，但通常只能小幅度調整對方的電商網站，這次就自己來打造一個滿意的電商吧！\
 [電商前台](http://shop.sun-jie.com/) \
 [電商後台](http://admin.sun-jie.com/)
 
-## 進度條
+
+### 2.使用技術：
+使用 docker-compose (flask + Nginx) 架設於 Google Compute Engine 使用 F1 主機*2 \
+前端使用技術 Bootstrap4 + jQuery \
+數據追蹤使用 Google Anayltics 加強型電子商務
+
+
+## 二.開發進度：
 電商前台主架構建設(完成) > 商品資料庫設計(完成) > 電商後台主架構建設(完成) > 金流串接(綠界支付) > 前台細節調整 > 後台細節調整
 
 
@@ -26,7 +29,7 @@
 
 ### 2.商品資料庫 (資料庫從 Firebase 改成 MySQL)
 - [x] 完成week2 - 主頁和商品頁的資料庫修改 
-- [x] 完成week3 - 研究 ORM 和關聯式資料庫設計筆記如下：
+- [x] 完成week3 - ORM 和關聯式資料庫設計筆記如下：
   * [Flask教學 - Flask-SQLAlchemy 資料庫連線&設定入門(一)](https://www.maxlist.xyz/2019/11/10/flask-sqlalchemy-setting/)
   * [Flask教學 - Flask-SQLAlchemy 資料庫操作-ORM篇(二)](https://www.maxlist.xyz/2019/10/30/flask-sqlalchemy/)
   * [Flask教學 - Flask-SQLAlchemy -ORM 一對多關聯篇 (三)](https://www.maxlist.xyz/2019/11/24/flask-sqlalchemy-orm/)
@@ -98,4 +101,7 @@
     * - [x] 商品資訊
     * - [ ] 商品內容管理 (所見即所得控制編輯器)
     
-    
+## 三.關於    
+感謝 Huli 的每週固定時間討論專案和指導須改進的地方，以及[前端引路人計劃](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)
+1. 2019-08-16 [前端引路人計劃](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)正式開始
+2. 2020-08-16 計畫結束
