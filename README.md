@@ -8,9 +8,10 @@
 
 
 ### 2.使用技術：
-使用 docker-compose (flask + Nginx) 架設於 Google Compute Engine 使用 F1 主機*2 \
-前端使用技術 Bootstrap4 + jQuery \
-數據追蹤使用 Google Anayltics 加強型電子商務
+* 後端： 使用 docker-compose (flask + Nginx) 架設於 Google Compute Engine 使用 F1 主機*2 
+* 資料庫： Google Cloud Platform 的 Cloud Sql (Mysql)
+* 前端： Bootstrap4 + jQuery 
+* 數據追蹤： Google Anayltics 加強型電子商務
 
 
 ## 二.開發進度：
