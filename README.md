@@ -26,12 +26,12 @@
 
 ### 2.商品資料庫 (資料庫從 Firebase 改成 MySQL)
 - [x] 完成week2 - 主頁和商品頁的資料庫修改 
-- [x] 完成week3 - 研究 ORM 和關聯式資料庫設計\
-  [Flask教學 - Flask-SQLAlchemy 資料庫連線&設定入門(一)](https://www.maxlist.xyz/2019/11/10/flask-sqlalchemy-setting/)\
-  [Flask教學 - Flask-SQLAlchemy 資料庫操作-ORM篇(二)](https://www.maxlist.xyz/2019/10/30/flask-sqlalchemy/)\
-  [Flask教學 - Flask-SQLAlchemy -ORM 一對多關聯篇 (三)](https://www.maxlist.xyz/2019/11/24/flask-sqlalchemy-orm/)\
-  [Flask教學 - Flask-SQLAlchemy -ORM 多對多關聯篇 (四)](https://www.maxlist.xyz/2019/11/24/flask-sqlalchemy-orm2/)\
-  [Flask教學 - Flask-SQLAlchemy 資料庫操作-SQL指令篇(五)](https://www.maxlist.xyz/2019/11/09/sqlalchemy-sql/)
+- [x] 完成week3 - 研究 ORM 和關聯式資料庫設計筆記如下：
+  * [Flask教學 - Flask-SQLAlchemy 資料庫連線&設定入門(一)](https://www.maxlist.xyz/2019/11/10/flask-sqlalchemy-setting/)
+  * [Flask教學 - Flask-SQLAlchemy 資料庫操作-ORM篇(二)](https://www.maxlist.xyz/2019/10/30/flask-sqlalchemy/)
+  * [Flask教學 - Flask-SQLAlchemy -ORM 一對多關聯篇 (三)](https://www.maxlist.xyz/2019/11/24/flask-sqlalchemy-orm/)
+  * [Flask教學 - Flask-SQLAlchemy -ORM 多對多關聯篇 (四)](https://www.maxlist.xyz/2019/11/24/flask-sqlalchemy-orm2/)
+  * [Flask教學 - Flask-SQLAlchemy 資料庫操作-SQL指令篇(五)](https://www.maxlist.xyz/2019/11/09/sqlalchemy-sql/)
 - [x] 完成week4 - 會員加入購物車 & 購買頁面的資料庫修改
 - [x] 完成week4 - 會員註冊將 Firebase 改成 MySQL
 
@@ -73,10 +73,10 @@
 ![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/admin-order-crud.png)
 
 
-### 5.金流
+### 5.金流 (信用卡申請待審核回覆)
 - [ ] 預計使用綠界
 
-### 6.前台細節
+### 6.前台細節 (待處理)
 - [ ] 品牌故事頁面 (SEO - EAT 頁面)
 - [ ] 會員權益頁面 (SEO - EAT 頁面)
 - [ ] 隱私權頁面 (SEO - EAT 頁面)
@@ -85,7 +85,7 @@
 - [ ] 產品分類頁
 
 
-### 7.後台細節
+### 7.後台細節 (待處理)
 - [ ] 會員介面
     * - [x] 顯示會員名單
     * - [x] 可調整為管理員權限 
