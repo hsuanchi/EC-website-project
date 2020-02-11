@@ -89,6 +89,14 @@
     - [x] Issue 處理：如果購物車沒有商品，則無法傳送交易資訊 
     - [x] Issue 處理：地址部分新增市和區選單，不要讓使用者自己填寫
     - [x] Issue 處理：資料庫地址切成三份(城市、區、地址)
+    
+
+> 新版購物車頁面比較清爽一些，未來確定要用哪一家物流後，還要再加運費和物流名稱上去
+![trade](https://github.com/hsuanchi/EC-website-project/blob/master/img/shopping_cart.png)
+
+> 綠界信用卡失敗後跳轉頁面，已經保存上次填寫的收件人資訊，並且能讓使用者可以直接再次刷卡
+![fail](https://github.com/hsuanchi/EC-website-project/blob/master/img/trade_fail.png)
+
 
 ### 6.前台細節 (待處理)
 - [ ] 品牌故事頁面 (SEO - EAT 頁面)
