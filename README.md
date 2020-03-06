@@ -99,9 +99,12 @@
 
 
 ### 6.前台細節 (待處理)
-- [ ] 品牌故事頁面 (SEO - EAT 頁面)
-- [ ] 會員權益頁面 (SEO - EAT 頁面)
-- [ ] 隱私權頁面 (SEO - EAT 頁面)
+- [x] 會員權益頁面 (SEO - EAT 頁面)
+- [x] 隱私權頁面 (SEO - EAT 頁面)
+- [x] 品牌故事頁面 (SEO - EAT 頁面)
+
+![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/brand.png)
+
 - [ ] 首頁
 - [ ] 產品頁
 - [ ] 產品分類頁
