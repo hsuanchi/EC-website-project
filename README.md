@@ -19,25 +19,25 @@
 
 
 ### 1.[電商前台](http://shop.sun-jie.com/)
-- [x] 完成week1 - 會員註冊頁
-- [x] 完成week1 - 首頁
-- [x] 完成week1 - 商品頁
-- [x] 完成week1 - 加入購物車頁
-- [x] 完成week1 - 結帳頁面
+- [x] 完成 - 會員註冊頁
+- [x] 完成 - 首頁
+- [x] 完成 - 商品頁
+- [x] 完成 - 加入購物車頁
+- [x] 完成 - 結帳頁面
 
 ![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/shop-home.png)
 
 
 ### 2.商品資料庫 (資料庫從 Firebase 改成 MySQL)
-- [x] 完成week2 - 主頁和商品頁的資料庫修改 
-- [x] 完成week3 - ORM 和關聯式資料庫設計筆記如下：
+- [x] 完成 - 主頁和商品頁的資料庫修改 
+- [x] 完成 - ORM 和關聯式資料庫設計筆記如下：
   * [Flask教學 - Flask-SQLAlchemy 資料庫連線&設定入門(一)](https://www.maxlist.xyz/2019/11/10/flask-sqlalchemy-setting/)
   * [Flask教學 - Flask-SQLAlchemy 資料庫操作-ORM篇(二)](https://www.maxlist.xyz/2019/10/30/flask-sqlalchemy/)
   * [Flask教學 - Flask-SQLAlchemy -ORM 一對多關聯篇 (三)](https://www.maxlist.xyz/2019/11/24/flask-sqlalchemy-orm/)
   * [Flask教學 - Flask-SQLAlchemy -ORM 多對多關聯篇 (四)](https://www.maxlist.xyz/2019/11/24/flask-sqlalchemy-orm2/)
   * [Flask教學 - Flask-SQLAlchemy 資料庫操作-SQL指令篇(五)](https://www.maxlist.xyz/2019/11/09/sqlalchemy-sql/)
-- [x] 完成week4 - 會員加入購物車 & 購買頁面的資料庫修改
-- [x] 完成week4 - 會員註冊將 Firebase 改成 MySQL
+- [x] 完成 - 會員加入購物車 & 購買頁面的資料庫修改
+- [x] 完成 - 會員註冊將 Firebase 改成 MySQL
 
 #### E-R Model 購物車
 ![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/addToCart.png)
@@ -47,16 +47,16 @@
 ### 3.[電商後台](http://admin.sun-jie.com/)
 
 #### 商品管理
-- [x] 完成week5 - 商品新增頁面
-- [x] 完成week5 - 商品更新頁面
-- [x] 完成week5 - 商品刪除頁面
-- [x] 完成week5 - 登入頁面
+- [x] 完成 - 商品新增頁面
+- [x] 完成 - 商品更新頁面
+- [x] 完成 - 商品刪除頁面
+- [x] 完成 - 登入頁面
 
 ![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/admin-product-crud.png)
 
 #### 會員管理
-- [x] 完成week19 - 顯示會員名單
-- [x] 完成week19 - 可調整為管理員權限
+- [x] 完成 - 顯示會員名單
+- [x] 完成 - 可調整為管理員權限
 
 目前後台的登入會員，並沒有額外寫後台帳號註冊的機制。
 所有的會員都只能在前台註冊，由後台可以將前台的註冊會員升級為管理員，然後使用前台的擁有管理員權限的會員帳號即可進入後台。
@@ -68,8 +68,8 @@
 ![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/admin-member-crud.png)
 
 #### 訂單管理
- - [x] 完成week20 訂單管理頁 
- - [x] 完成week20 訂單管理細節頁 
+ - [x] 完成 訂單管理頁 
+ - [x] 完成 訂單管理細節頁 
  
   完成訂單管理的頁面，可以看到目前所有的訂單狀態 (已出貨、待處理、已取消)以及訂單收件人細節。
   在點擊單筆訂單狀態時，會彈出此筆訂單的下單產品細節，在出完貨之後可以再修改此筆訂單狀態。
