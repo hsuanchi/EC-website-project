@@ -2,23 +2,21 @@
 
 ## 一.介紹
 ### 1. 計畫說明：
-過去工作上花費不少時間在研究電商的使用者行為，但通常只能小幅度調整對方的電商網站，這次就自己來打造一個滿意的電商吧！\
-[電商前台](http://shop.sun-jie.com/) \
-[電商後台](http://admin.sun-jie.com/)
+過去工作上花費不少時間在研究電商的使用者行為，但通常只能小幅度調整對方的電商網站，這次就自己來打造一個滿意的電商吧！
 
 
 ### 2.使用技術：
-* 後端： 使用 docker-compose (flask + Nginx) 架設於 Google Compute Engine 使用 F1 主機*2 
-* 資料庫： Google Cloud Platform 的 Cloud Sql (Mysql)
 * 前端： Bootstrap4 + jQuery 
+* 後端： Flask + Nginx + Docker 架設於 Google Compute Engine F1 主機 
+* 資料庫： Mysql
 * 數據追蹤： Google Anayltics 加強型電子商務
 
 
 ## 二.開發進度：
-電商前台主架構建設(完成) > 商品資料庫設計(完成) > 電商後台主架構建設(完成) > 綠界金流串接(完成) > 前台細節調整 > 後台細節調整
+電商前台主架構建設(完成) > 商品資料庫設計(完成) > 電商後台主架構建設(完成) > 綠界金流串接(完成) > 前台調整(完成)
 
 
-### 1.[電商前台](http://shop.sun-jie.com/)
+### 1.電商前台
 - [x] 完成 - 會員註冊頁
 - [x] 完成 - 首頁
 - [x] 完成 - 商品頁
@@ -44,7 +42,7 @@
 #### E-R Model 結帳
 ![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/transaction.png)
 
-### 3.[電商後台](http://admin.sun-jie.com/)
+### 3.電商後台
 
 #### 商品管理
 - [x] 完成 - 商品新增頁面
@@ -98,30 +96,14 @@
 ![fail](https://github.com/hsuanchi/EC-website-project/blob/master/img/trade_fail.png)
 
 
-### 6.前台細節 (待處理)
+### 6.前台細節
 - [x] 會員權益頁面 (SEO - EAT 頁面)
 - [x] 隱私權頁面 (SEO - EAT 頁面)
 - [x] 品牌故事頁面 (SEO - EAT 頁面)
 
 ![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/brand.png)
 
-- [ ] 首頁
-- [ ] 產品頁
-- [ ] 產品分類頁
 
-
-### 7.後台細節 (待處理)
-- [ ] 會員介面
-    * - [x] 顯示會員名單
-    * - [x] 可調整為管理員權限 
-- [ ] 訂單介面
-    * - [x] 訂單管理總覽
-    * - [x] 單筆訂單細節顯示 
-    * - [ ] dashboard 顯示訂單狀態
-    * - [ ] 客戶過去訂單總覽 (uid)+ 細項
-- [ ] 商品管理
-    * - [x] 商品資訊
-    * - [ ] 商品內容管理 (所見即所得控制編輯器)
     
 ## 三.關於    
 感謝 Huli 的每週固定時間討論專案和指導須改進的地方，以及[前端引路人計劃](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)
