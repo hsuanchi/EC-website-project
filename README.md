@@ -101,9 +101,6 @@
 - [x] 隱私權頁面 (SEO - EAT 頁面)
 - [x] 品牌故事頁面 (SEO - EAT 頁面)
 
-![image](https://github.com/hsuanchi/EC-website-project/blob/master/img/brand.png)
-
-
     
 ## 三.關於    
 感謝 Huli 的每週固定時間討論專案和指導須改進的地方，以及[前端引路人計劃](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)
